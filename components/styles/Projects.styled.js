@@ -21,4 +21,13 @@ div {
 @media (max-width: 500px) {
     width: 400px;
 }
+
+.icon {
+    cursor: pointer;
+    font-size: 1.3em;
+}
+
+.icon:hover {
+    color: pink;
+}
 `

@@ -31,7 +31,7 @@ export const projects = [
     {
         id: '4',
         title: "Steven's Portfolio Site",
-        description: '(this site)',
+        description: '(This Site)',
         image: '/images/jinnie-cat.jpg',
         site: 'placeholder',
         repolink: 'placeholder',

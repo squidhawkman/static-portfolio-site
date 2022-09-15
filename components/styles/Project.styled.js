@@ -12,10 +12,11 @@ border-radius: 3px;
 div {
     display: flex;
     flex-direction: column;
+    margin-bottom: 40px;
 }
 
-div a {
-    padding: 10px 0;
+div h4 {
+    margin-bottom: 40px;
 }
 
 div p {

@@ -34,7 +34,7 @@ export const projects = [
         description: '(This Site)',
         image: '/images/jinnie-cat.jpg',
         site: 'placeholder',
-        repolink: 'placeholder',
+        repolink: 'https://github.com/squidhawkman/static-portfolio-site',
         tech: 'React, Styled Components, Next.js'
     }
 ]

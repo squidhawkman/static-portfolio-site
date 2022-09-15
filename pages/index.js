@@ -8,7 +8,7 @@ export default function Home() {
     <>
     <HeadContainer>
     <StyledHead>
-      <Image src='/images/jinnie-cat.jpg' width='150px' height='150px' />
+      <Image src='/images/jinnie-cat.jpg' width='150px' height='150px' alt="header image" />
       <h1>Steven Swanson</h1>
       <p>All projects created from scratch by me</p>
       {/* this div is the bottom border */}

@@ -2,11 +2,11 @@ import styled from "styled-components";
 
 export const StyledGallery = styled.div`
 display: grid;
-grid-auto-rows: 300px 400px;
-grid-template-columns: repeat(8, 1fr);
+grid-auto-rows: 250px 320px;
+grid-template-columns: repeat(6, 1fr);
 grid-gap: 10px;
 grid-auto-flow: dense;
-width: 85vw;
+width: 70vw;
 flex-wrap: wrap;
 margin: 30px 0 100px 0;
 background-color: #F0EFF4;

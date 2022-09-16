@@ -16,7 +16,7 @@ export default function Projects() {
                 <div>
                 <h4>{project.title}</h4>
                 <Link href={project.site}>{project.description}</Link>
-                <p><span style={{fontWeight: 'bold'}}>Tech focus:</span> {project.tech}</p>
+                <p><span style={{fontWeight: 'bold'}}>Focus:</span> {project.tech}</p>
                 <Link href={project.repolink}><FaGithub className='icon' /></Link>
                 </div>
             </StyledProject>

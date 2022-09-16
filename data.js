@@ -33,7 +33,7 @@ export const projects = [
         title: "Steven's Portfolio Site",
         description: '(This Site)',
         image: '/images/jinnie-cat.jpg',
-        site: 'placeholder',
+        site: 'https://steven-swanson-portfolio.vercel.app/',
         repolink: 'https://github.com/squidhawkman/static-portfolio-site',
         tech: 'React, Styled Components, Next.js'
     }
